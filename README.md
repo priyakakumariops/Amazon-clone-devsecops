@@ -1,2 +1,2 @@
-# Amazon-clone-devsecops
-Amazon-clone-devsecops
+Successfully done
+# Amazon-clone
